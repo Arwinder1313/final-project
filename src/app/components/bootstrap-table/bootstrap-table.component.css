@@ -1,0 +1,18 @@
+img.card-img-top {
+    height: 352px;
+}
+.col-sm-3.first-column{
+    margin-bottom: 22px;
+    
+}
+a.btn {
+    margin: 2px;
+}
+.add-div{
+    text-align: right;
+    width: 205px;
+    float: right;
+}
+h2{
+    margin-bottom: 25px !important;
+}
